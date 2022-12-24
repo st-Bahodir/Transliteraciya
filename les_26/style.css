@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body>h3,form,label,input{
+    text-align: center;
+    margin-top: 50px;
+}
+button{
+    margin-top: 30px;
+    border-radius: 3px;
+    border: 0px;
+    outline: none;
+    padding: 6px;
+    background: wheat;
+}
+button:active{
+    background: rgb(223, 30, 120);
+}
